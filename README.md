@@ -1,4 +1,4 @@
-# Hello there! :mouse: [HE/HIM]
+# Hello there! :mouse:
 My name is Mill, my username across most platforms is `UnoptimisedMill` or `MillThatsUnoptimised`, I don't use github alot
 but may use it from time to time, I'm a beginner in Python and wish to learn more about it in the future!
 
